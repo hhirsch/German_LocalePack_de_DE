@@ -1,4 +1,4 @@
-<!--@subject Payment Transaction Failed Reminder @-->
+<!--@subject Erinnerung: Zahlung fehlgeschlagen @-->
 <!--@vars
 {"var reason":"Transaction Failed Reason",
 "var checkoutType":"Checkout Type",
@@ -16,7 +16,7 @@
 <table>
     <thead>
         <tr>
-            <th>Zahlungstransaktion fehlgeschlagen.</th>
+            <th>Zahlung ist fehlgeschlagen.</th>
         </tr>
     </thead>
     <tbody>
@@ -39,27 +39,27 @@
                     {{var items}}
                 </p>
                 <p>
-                    <b>Summe:</b><br />
+                    <b>Gesamtsumme:</b><br />
                     {{var total}}
                 </p>
                 <p>
-                    <b>Rechnungsanschrift:</b><br />
+                    <b>Rechnungsadresse:</b><br />
                     {{var billingAddress.format('html')}}
                 </p>
                 <p>
-                    <b>Lieferadresse:</b><br />
+                    <b>Versandadresse:</b><br />
                     {{var shippingAddress.format('html')}}
                 </p>
                 <p>
-                    <b>Liefermethode:</b><br />
+                    <b>Versandart:</b><br />
                     {{var shippingMethod}}
                 </p>
                 <p>
-                    <b>Zahlungsform:</b><br />
+                    <b>Zahlungsart:</b><br />
                     {{var paymentMethod}}
                 </p>
                 <p>
-                    <b>Datum/Uhrzeit:</b><br />
+                    <b>Datum &amp; Zeit</b><br />
                     {{var dateAndTime}}
                 </p>
             </td>
