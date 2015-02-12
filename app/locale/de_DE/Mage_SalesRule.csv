@@ -121,6 +121,7 @@
 "Update product's %s %s: %s","%s %s: %s von Produkt aktualisieren"
 "Update the Product","Produkt aktualisieren"
 "Use Auto Generation","Über Automatische Erstellung"
+"Usage limit enforced for logged in customers only","Usage limit enforced for logged in customers only"
 "Used","Eingelöst"
 "Uses per Coupon","Verwendung je Gutschein"
 "Uses per Customer","Verwendung je Kunde"

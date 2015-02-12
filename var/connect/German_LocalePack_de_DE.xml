@@ -23,12 +23,15 @@ Die Übersetzung ist noch nicht vollständig und wird laufend ergänzt</notes>
    <authors>
       <name>
          <name>Rico Neitzel</name>
+         <name>Manfred Worm Schäfer</name>
       </name>
       <user>
          <user>rizi</user>
+         <user>MaWoScha</user>
       </user>
       <email>
          <email>rico@buro71a.de</email>
+         <email>manfredwormschaefer@gmail.com</email>
       </email>
    </authors>
    <depends_php_min>5.2.0</depends_php_min>
@@ -66,7 +69,6 @@ Die Übersetzung ist noch nicht vollständig und wird laufend ergänzt</notes>
    <contents>
       <target>
          <target>magelocal</target>
-         <target>magedesign</target>
          <target>magedesign</target>
          <target>magedesign</target>
          <target>magedesign</target>

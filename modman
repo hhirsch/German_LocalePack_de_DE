@@ -40,7 +40,11 @@ app/locale/pt_PT/German_LocaleDe.csv app/locale/pt_PT/German_LocaleDe.csv
 
 #Adminhtml und Default Theme
 app/design/adminhtml/default/default/locale/de_DE/translate.csv     app/design/adminhtml/default/default/locale/de_DE/translate.csv
+app/design/frontend/default/blank/locale/de_DE/translate.csv        app/design/frontend/default/blank/locale/de_DE/translate.csv
 app/design/frontend/default/default/locale/de_DE/translate.csv      app/design/frontend/default/default/locale/de_DE/translate.csv
+app/design/frontend/default/iphone/locale/de_DE/translate.csv       app/design/frontend/default/iphone/locale/de_DE/translate.csv
+app/design/frontend/default/modern/locale/de_DE/translate.csv       app/design/frontend/default/modern/locale/de_DE/translate.csv
+app/design/frontend/rwd/default/locale/de_DE/translate.csv          app/design/frontend/rwd/default/locale/de_DE/translate.csv
 
 #CoreTranslation
 app/locale/de_DE/Mage_Adminhtml.csv app/locale/de_DE/Mage_Adminhtml.csv
