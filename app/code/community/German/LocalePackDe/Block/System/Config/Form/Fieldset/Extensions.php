@@ -4,7 +4,7 @@
  * @package   German_LocalePack
  * @authors   MaWoScha <mawoscha@siempro.co, http://www.siempro.co/>
  * @developer MaWoScha <mawoscha@siempro.co, http://www.siempro.co/>
- * @version   0.2.0
+ * @version   0.6.0
  * @license   http://opensource.org/licenses/osl-3.0.php  Open Software License (OSL 3.0)
  */
 class German_LocalePackDe_Block_System_Config_Form_Fieldset_Extensions
@@ -22,6 +22,12 @@ class German_LocalePackDe_Block_System_Config_Form_Fieldset_Extensions
 		$html .= "<dl>";
 		$html .= "<dt><b>FireGento: Mage Setup</b> - <a href='http://www.magentocommerce.com/magento-connect/catalog/product/view/id/20763/' target='_blank'>Mage Setup</a> ".$helper->__("on")." Magento Connect</dt>";
 		$html .= "<dd>".$helper->__("Extension Key for the")." Connect Manager: <span style='color:#EA7601; font-style:italic;'>http://connect20.magentocommerce.com/community/FireGento_MageSetup</span></dd>";
+		$html .= "<dt><b>FireGento: German Setup</b> - <a href='http://www.magentocommerce.com/magento-connect/german-setup-6623.html' target='_blank'>German Setup</a> ".$helper->__("on")." Magento Connect</dt>";
+		$html .= "<dd>".$helper->__("Extension Key for the")." Connect Manager: <span style='color:#EA7601; font-style:italic;'>http://connect20.magentocommerce.com/community/FireGento_GermanSetup</span></dd>";
+		$html .= "<dt><b>Magento DE: German Store</b> - <a href='https://github.com/integer-net/GermanStoreConfig' target='_blank'>Configuration for Magento CE</a></dt>";
+		$html .= "<dd>".$helper->__("Preconfigurated for the German market")."</dd>";
+		$html .= "<dt><b>nr-apps</b> - <a href='http://de.nr-apps.com/store/magento-de.html' target='_blank'>Magento DE</a></dt>";
+		$html .= "<dd>".$helper->__("Preconfigurated for the German market")."</dd>";
 		$html .= "</dl>";
 		$html .= "<h3 style='margin-top:20px; margin-bottom:10xp;'>".$helper->__("Common payment methods")."</h3>";
 		$html .= "<dl>";
