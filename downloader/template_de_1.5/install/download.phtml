@@ -38,7 +38,7 @@
 <?php else: ?>
     <p>Es gibt Hinweise darauf, dass Magento-Dateien bereits heruntergeladen wurden.</p>
     <p>Wenn Sie der Meinung sind, dass diese irrtümlich angenommen wird, setzen Sie bitte die Installation fort:</p>
-    <button class="form-button" type="button" onclick="location.href='<?php echo $this->mageUrl() ?>'"><span>Continue Magento installation</span></button>
+    <button class="form-button" type="button" onclick="location.href='<?php echo $this->mageUrl() ?>'"><span>Magento-Installation fortsetzen</span></button>
     <br/><br/><br/>
     <p>Alternativ können Sie alle Dateien erneut herunterladen</p>
   <?php echo($this->get('channel_notice')); ?>
@@ -62,8 +62,8 @@
                     <td class="label">Verwende eigene Schreibrechte:</td>
                     <td class="value">
                         <select onchange="togglePanel(this)" id="use_custom_permissions_mode" name="use_custom_permissions_mode">
-                            <option value="1" <?php if ($this->get('use_custom_permissions_mode')=='1'):?>selected="selected"<?php endif ?>>Yes</option>
-                            <option value="0" <?php if ($this->get('use_custom_permissions_mode')=='0'):?>selected="selected"<?php endif ?>>No</option>
+                            <option value="1" <?php if ($this->get('use_custom_permissions_mode')=='1'):?>selected="selected"<?php endif ?>>Ja</option>
+                            <option value="0" <?php if ($this->get('use_custom_permissions_mode')=='0'):?>selected="selected"<?php endif ?>>Nein</option>
                         </select>
                     </td>
                 </tr>
@@ -87,8 +87,8 @@
                     <td class="label">Art der Bereitstellung:</td>
                     <td class="value">
                         <select id="inst_protocol" onchange="togglePanel(this)" name="inst_protocol">
-                            <option value="0">Bereitstellungstyp</option>
-                            <option value="1">TP-Verbindung</option>
+                            <option value="0">Lokales Dateisystem</option>
+                            <option value="1">FTP-Verbindung</option>
                         </select>
                     </td>
                 </tr>
@@ -143,7 +143,7 @@
     ))) ?>
     <?php echo $this->template('messages.phtml') ?>
 
-    <button class="form-button" type="button" onclick="location.href='<?php echo $this->mageUrl() ?>'"><span>Continue Magento Installation</span></button>
+    <button class="form-button" type="button" onclick="location.href='<?php echo $this->mageUrl() ?>'"><span>Magento-Installation fortsetzen</span></button>
 </div>
 
 <div id="connect_iframe_failure" style="display:none">
