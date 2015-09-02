@@ -11,7 +11,7 @@
 <config>
     <modules>
         <German_LocalePackDe>
-            <version>0.6.6</version>
+            <version>0.6.7</version>
             <locale>de_DE</locale>
             <title>German (Germany) Language Pack</title>
             <link_git>https://github.com/riconeitzel/German_LocalePack_de_DE</link_git>
