@@ -1,3 +1,4 @@
+" in rows: ","in Zeilen: "
 "%s file does not exists or is not readable","Datei %s existiert nicht oder kann nicht gelesen werden"
 "-- Please Select --","-- Bitte wählen --"
 "Adapter must be an instance of Mage_ImportExport_Model_Import_Adapter_Abstract","Adapter muss eine Anwendung von Mage_ImportExport_Model_Import_Adapter_Abstract sein"

@@ -14,7 +14,7 @@
 "Found %d rows.","%d Zeilen gefunden."
 "Less than a minute","Weniger als eine Minute"
 "Loaded successfully: ""%s"".","Erfolgreich geladen: ""%s""."
-"Memory Used: %s","Benützter Speicher: %s"
+"Memory Used: %s","Genutzter Speicher: %s"
 "Method ""%s"" not defined in adapter %s.","Methode ""%s"" im Adapter %s nicht definiert."
 "Method ""%s"" was not defined in adapter %s.","Methode ""%s"" wurde im Adapter %s nicht definiert."
 "Please declare ""adapter"" and ""method"" nodes first.","Bitte zuerst die Schnittstellen ""adapter"" und ""method"" deklarieren."

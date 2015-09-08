@@ -442,7 +442,7 @@
 "IP Address","IP-Adresse"
 "IPN (Instant Payment Notification) Only","Nur IPN (Sofortzahlungsbenachrichtigung)"
 "Id","Id"
-"If there is an account associated with %s you will receive an email with a link to reset your password.","Wenn ein Konto mit %s verknüpft ist, erhalten Sie eine eMail mit einem Link für das Zurücksetzen Ihres Passworts."
+"If there is an account associated with %s you will receive an email with a link to reset your password.","Sollten wir ein Kundenkonto unter %s finden können, erhalten Sie eine eMail mit einem Link, mit dem Sie Ihr Passwort zurücksetzen können."
 "If this message persists, please contact the store owner.","Wenn diese Meldung weiterhin angezeigt wird, wenden Sie sich bitte an den Ladeneigentümer."
 "If you do not specify an option value for a specific store view then the default (Admin) value will be used.","Wenn Sie keinen Optionswert für eine bestimmte Ladenansicht angeben, wird der Standardwert (Admin) verwendet."
 "Images (.gif, .jpg, .png)","Bilder (.gif, .jpg, .png)"
