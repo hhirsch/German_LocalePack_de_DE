@@ -41,6 +41,7 @@
 "Retrieve stock data by product ids","Lagerbestand nach Artikelnummer abfragen"
 "Rule price","Regelpreis"
 "Set Items' Status to be In Stock When Order is Cancelled","Artikelstatus auf ""verfügbar"" setzen, wenn eine Bestellung storniert wird"
+"Some of the products are currently out of stock","Einige der Artikel sind momentan nicht lieferbar."
 "Some of the products are currently out of stock.","Einige der Artikel sind momentan nicht lieferbar."
 "Some of the products cannot be ordered in requested quantity.","Einige der Artikel können nicht in der gewünschten Menge bestellt werden."
 "Some of the products cannot be ordered in the requested quantity.","Einige der Artikel können nicht in der gewünschten Menge bestellt werden."

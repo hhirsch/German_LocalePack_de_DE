@@ -64,7 +64,7 @@
 "Name on Card","Name auf Karte"
 "Name on the Card","Name auf der Karte"
 "Name on the Card: %s","Name des Inhabers: %s"
-"New Order Status","Stand der neuen Bestellung"
+"New Order Status","Neuer Bestell-Status"
 "Number of billing periods that make up one billing cycle.","Anzahl von Abrechnungsperioden die einen Rechnungslauf ausmachen."
 "Order action is not available.","Befehlsaktion ist nicht verfügbar."
 "Overrides API URL that may be specified by a payment method.","Überschreibt API URL die durch ein Zahlungsart spezifiziert ist."
