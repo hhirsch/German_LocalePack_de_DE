@@ -28,7 +28,7 @@
 "Destination file path must be a string","Zieldatei-Pfad muss eine Reihe sein"
 "Done import data validation","Abgeschlossene Import-Validierung"
 "Duplicate Unique Attribute for '%s'","Verdoppeln Sie das einzigartige Merkmal für '%s'"
-"Entity Attributes","Entitätsmerkmal"
+"Entity Attributes","Entitätsmerkmale"
 "Entity Type","Entitätstyp"
 "Entity adapter obejct must be an instance of Mage_ImportExport_Model_Export_Entity_Abstract","Entität-Adapterobjekt muss eine Instanz von  Mage_ImportExportModel_Export_Entity_Abstract sein."
 "Entity adapter object must be an instance of Mage_ImportExport_Model_Import_Entity_Abstract","Entity-Adapter-Objekt muss eine Anwendung von Mage_ImportExport_Model_Import_Entity_Abstract sein"
