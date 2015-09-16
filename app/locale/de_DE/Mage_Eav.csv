@@ -8,7 +8,7 @@
 """%s"" invalid type entered.","Ungültiger Typ ""%s"" eingegeben."
 """%s"" is a required value.","""%s"" ist ein Pflichtfeld."
 """%s"" is an empty string.","""%s"" ist eine leere Zeichenkette."
-"""%s"" is not a valid URL.","""%s"" ist keine ungültig URL."
+"""%s"" is not a valid URL.","""%s"" ist keine gültige URL."
 """%s"" is not a valid date.","""%s"" ist kein gültiges Datum."
 """%s"" is not a valid email address.","""%s"" ist keine gültige eMail-Adresse."
 """%s"" is not a valid file","""%s"" ist keine gültige Datei."
