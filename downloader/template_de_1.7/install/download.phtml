@@ -31,7 +31,7 @@
 </div>
 
 <?php if (!$this->controller()->isDownloaded()): ?>
-    <p>Starten Sie nun den Installationsprozess, mit dem Sie die neueste Version der Magento-Software herunterladen.</p>
+    <p>Starten Sie nun die Installation der Magento-Software, indem Sie die neueste Version der Software herunterladen.</p>
   <?php echo($this->get('channel_notice')); ?>
     <form id="install_all" method="post" action="<?php echo $this->url('connectInstallAll') ?>" target="connect_iframe" onsubmit="return installAll()">
         <fieldset class="fieldset-download">
@@ -48,7 +48,7 @@
 
             <table cellspacing="0" class="form-list">
                 <tr>
-                    <td class="label">Protokoll des Kanals von Magento Connect:</td>
+                    <td class="label">Protokoll des Kanals Magento Connect:</td>
                     <td class="value">
                         <select id="protocol" name="protocol">
                             <option value="https" <?php if ($this->get('protocol')=='https'):?>selected="selected"<?php endif ?>>Https</option>
